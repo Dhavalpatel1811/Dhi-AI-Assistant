@@ -79,11 +79,14 @@ Dhi/
 ---
 
 ## 🗺️ Roadmap
-- [x] Phase 1 — Core voice + LLM conversation
-- [ ] Phase 2 — Long term memory
-- [ ] Phase 3 — Web search tool
-- [ ] Phase 4 — WhatsApp / messaging integration
-- [ ] Phase 5 — Proactive intelligence
+- [x] Phase 1 — The Brain & Voice (Foundation)
+- [ ] Phase 2 — Give it Tools (Agentic Core)
+- [ ] Phase 3 — Memory (It Remembers You)
+- [ ] Phase 4 — Whisper Voice Upgrade
+- [ ] Phase 5 — Computer Control
+- [ ] Phase 6 — App Integrations
+- [ ] Phase 7 — The Orchestrator (True Agentic Brain)
+- [ ] Phase 8 — Polish & Productize
 
 ---
 
